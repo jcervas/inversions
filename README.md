@@ -1,5 +1,7 @@
 # Inversions
 Replication data for Are Presidential Inversions Inevitable? Comparing Eight Counterfactual Rules for Electing the U.S. President
+
+Cervas, J. R. and Grofman, B. (2019), Are Presidential Inversions Inevitable? Comparing Eight Counterfactual Rules for Electing the U.S. President. Social Science Quarterly. doi:10.1111/ssqu.12634
 ```
 ##########################################################################################################
 # ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
