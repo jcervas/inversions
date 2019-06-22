@@ -1,12 +1,10 @@
-# "Are Presidential Inversions Inevitable?"
-date:   2019-04-17 21:53:39 -0700
-categories: electoral college
+# Are Presidential Inversions Inevitable?
 ---
 **JONATHAN R. CERVAS** _University of California, Irvine_  
 **BERNARD GROFMAN** _University of California, Irvine_  
 
 ---  
-Published Online: 2019 [https://doi.org/10.1111/ssqu.12634](https://doi.org/10.1111/ssqu.12634)
+Published Online: April 2019 [https://doi.org/10.1111/ssqu.12634](https://doi.org/10.1111/ssqu.12634)
 ---
 
 **To cite this article:** Cervas, Jonathan R., & Bernard Grofman. (2019). "Are Presidential Inversions Inevitable?: Comparing Eight Counterfactual Rules for Electing the US President." _Social Science Quarterly_. 1-21.  
