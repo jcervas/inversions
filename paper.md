@@ -1,4 +1,3 @@
----
 # "Are Presidential Inversions Inevitable?"
 date:   2019-04-17 21:53:39 -0700
 categories: electoral college
