@@ -1,5 +1,5 @@
 # Inversions
-Replication data for Are Presidential Inversions Inevitable? Comparing Eight Counterfactual Rules for Electing the U.S. President
+Replication data for Are Presidential Inversions Inevitable? Comparing Eight Counterfactual Rules for Electing the U.S. President (also stored at https://dataverse.harvard.edu/dataverse/cervas)
 
 Cervas, J. R. and Grofman, B. (2019), Are Presidential Inversions Inevitable? Comparing Eight Counterfactual Rules for Electing the U.S. President. Social Science Quarterly. doi:10.1111/ssqu.12634
 ```
