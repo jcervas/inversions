@@ -21,6 +21,9 @@
 <meta name="citation_pdf_url" content="https://onlinelibrary.wiley.com/doi/pdf/10.1111/ssqu.12634">
 <meta name="citation_publisher" content="John Wiley & Sons, Ltd (10.1111)">
 <meta name="article_references" content="Cervas, J. R. and Grofman, B.  (2019), Are Presidential Inversions Inevitable? Comparing Eight Counterfactual Rules for Electing the U.S. President*. Social Science Quarterly, 100: 1322-1342. doi:10.1111/ssqu.12634">
+
+
+
 **JONATHAN R. CERVAS** _University of California, Irvine_
 **BERNARD GROFMAN** _University of California, Irvine_
 
