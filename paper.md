@@ -1,8 +1,6 @@
----
-layout: post
-title: "Are Presidential Inversions Inevitable?"
-date: 2019-04-17 21:53:39 -0700
-categories: electoral college
+
+# "Are Presidential Inversions Inevitable?"
+date: 2019-04-17
 ---
 <meta name="citation_doi" content="10.1111/ssqu.12634" />
 <meta name="dc.identifier" content="10.1111/ssqu.12634" />
