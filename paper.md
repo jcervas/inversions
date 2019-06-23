@@ -24,7 +24,7 @@
 
 
 
-**JONATHAN R. CERVAS** _University of California, Irvine_
+**JONATHAN R. CERVAS** _University of California, Irvine_  
 **BERNARD GROFMAN** _University of California, Irvine_
 
 ---
