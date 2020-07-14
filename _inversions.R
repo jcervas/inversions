@@ -36,8 +36,8 @@ library(stargazer)
 #_________________________________
 #_________ Functions
 #_________________________________
-source("../../R Functions/apportion.r")
-source("../../R Functions/ECasAPPORTIONMENT.R")
+source("https://raw.githubusercontent.com/jcervas/inversions/master/apportion.R")
+source("https://raw.githubusercontent.com/jcervas/inversions/master/ECasAPPORTIONMENT.R")
 
 #_________ Find election winners
 unc <- function(inp) 0*(inp<0.5)+1*(inp>0.5)
@@ -76,12 +76,12 @@ Fractional_Porportional <- function(data, dem, rep, ecvotes, add.seats=0) {
 	round(sum(two_party(data, dem, rep) * (data[,ecvotes] + add.seats)) / sum(data[,ecvotes] + add.seats), digits=5)
 	}
 	
-District_Specific <- 
+# District_Specific <- 
 
 
 #_________
 # Read Data
-trends <- read.csv("/Users/cervas/Google Drive/School/UCI/Papers/Alternative EC/EC_googleTrends.csv")
+trends <- read.csv("https://raw.githubusercontent.com/jcervas/inversions/master/EC_googleTrends.csv")
 	trends$Month <- as.Date(paste0(as.character(trends$Month), "-01"))
 	trends$x <- 1:length(trends$Month)
 #_________________________________
@@ -96,19 +96,19 @@ returns <- runif(100)
 # state.fips$state[state.fips$state=="district of columbia"] <- "d. c."
 
 aves <- data.frame(Year= yearlist, Votes = NA, Seats = NA)
-ec <- read.csv("Historical.csv", header=TRUE)
-pres.cd <- read.csv("../../../../Data/Elections/Presidential/FINAL Pres by CD.csv")
+ec <- read.csv("https://raw.githubusercontent.com/jcervas/inversions/master/Historical.csv", header=TRUE)
+pres.cd <- read.csv("https://raw.githubusercontent.com/jcervas/inversions/master/FINAL%20Pres%20by%20CD.csv")
 
 #_________________________________
 #_________ Set-up
 #_________________________________
-pop <- read.csv("HistoricPopulationsStates.csv", header=TRUE) # Population at Census Year
+pop <- read.csv("https://raw.githubusercontent.com/jcervas/inversions/master/HistoricPopulationsStates.csv", header=TRUE) # Population at Census Year
 
 for (j in 1:length(yearlist)) {
 					
 year <- yearlist[j]
 
-dat <- read.csv(paste0("data/", year, ".csv"), header=TRUE ,  stringsAsFactors=FALSE) # Dave Leip US Election Atlas
+dat <- read.csv(paste0("https://raw.githubusercontent.com/jcervas/inversions/master/data/", year, ".csv"), header=TRUE ,  stringsAsFactors=FALSE) # Dave Leip US Election Atlas
 # dat <- merge(dat, state.fips, by="state")
 # dat$fips <- factor(dat$fips, labels=dat$state)
 
